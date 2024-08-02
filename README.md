@@ -15,8 +15,8 @@ Directory Analyzer is a C# console application that traverses a directory struct
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/DirectorySizeAnalyzer.git
-    cd DirectorySizeAnalyzer
+    git clone [https://github.com/your-username/DirectorySizeAnalyzer.git](https://github.com/Deekshith-07/directory-analyzer.git)
+    cd directory-analyzer
     ```
 
 2. Open the project in your preferred C# IDE (e.g., Visual Studio).
@@ -32,7 +32,7 @@ Directory Analyzer is a C# console application that traverses a directory struct
 1. Build and run the project:
 
     ```
-    dotnet run --project DirectorySizeAnalyzer
+    dotnet run --project directory-analyzer
     ```
 
 2. Enter the path of the directory you want to analyze when prompted.
